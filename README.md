@@ -212,4 +212,4 @@ SpaceSniffer is offered as a full free version with all features and updates inc
 Take charge of your disk space today! Download SpaceSniffer and start optimizing your storage experience.
 
 ---
-**Last updated:** 2026-10-01 02:38:09 UTC
+**Last updated:** 2026-10-01 09:28:54 UTC
